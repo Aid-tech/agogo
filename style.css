@@ -1,0 +1,18 @@
+body{
+    background: #40C78B !important;
+}
+
+.col{
+    cursor: pointer;
+}
+.m1{
+    margin: 100px 0 !important;
+}
+
+.m2{
+    margin-top: 300px!important;
+}
+
+#count {
+    font-size: 5em;
+}
